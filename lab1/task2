@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is week 3 lab</title>
+</head>
+<body>
+    <h1><p>This is the Main Heading</p></h1>
+    <!-- Note: The original image incorrectly closes this next tag with <p> -->
+    <p><h1>This text might be an introduction to the rest of the page. And if</h1></p>
+    <h2><p>This is a Sub-Heading </p></h2>
+    <p><h2>Many long articles have sub-headings so to help you follow the structure</h2></p>
+    <h6><p> Sub-Heading</p></h6>
+    <h6><p>Here you can see another sub-heading. </h6></p>
+</body>
+</html>
