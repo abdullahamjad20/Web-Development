@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is week 3 lab</title>
+</head>
+<body>
+    <h1>The Story in the Book</h1>
+    <hr>
+    <h2>Chapter 1</h2>
+    <p>
+        Molly had been staring out of <b>her window</b> for about an hour now.<br>
+        On her desk, lying between the copies of <i>Nature</i>, <i>New Scientist</i>, and other scientific journals, was a well-thumbed copy of <cite>On The Road</cite>. It had been Molly's favorite book since college.
+    </p>
+    <hr>
+    <p>
+        She had spent the last ten years in this room, sitting under a poster with an Oscar Wilde quote:
+        <q>Work is the refuge of people who have nothing better to do</q>.
+        Her work on llama <abbr title="Deoxyribonucleic acid">DNA</abbr> was an outstanding achievement, but Molly <em>did</em> think she had something better to do.
+    </p>
+</body>
+</html>
