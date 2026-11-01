@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Three Chapters</title>
+</head>
+<body>
+    <a href="#chapter1">First Chapter</a> |
+    <a href="#chapter2">Second Chapter</a> |
+    <a href="#chapter3">Third Chapter</a>
+    <hr>
+
+    <!-- FIRST ID FIRST CHAPTER -->
+    <div id="chapter1">
+        <h2>Chapter 1: Movies</h2>
+        <p>Movies are a popular form of entertainment.</p>
+        <p>People watch movies in cinemas and at home.</p>
+        <p>There are many different types of movies.</p>
+        <p>Action movies are full of excitement.</p>
+        <p>Comedy movies make people laugh.</p>
+        <p>Horror movies create fear and suspense.</p>
+        <p>Romantic movies tell stories about love.</p>
+        <p>Animated movies are popular among children.</p>
+        <p>Actors play different characters in movies.</p>
+        <p>Directors guide the making of a movie.</p>
+    </div>
+
+    <!-- SECOND ID SECOND CHAPTER -->
+    <div id="chapter2">
+        <h2>Chapter 2: Books</h2>
+        <p>Books are a great source of knowledge.</p>
+        <p>People read books at home and in libraries.</p>
+        <p>There are many different types of books.</p>
+        <p>Story books are full of imagination.</p>
+        <p>Comedy books make people laugh.</p>
+        <p>History books tell us about the past.</p>
+        <p>Science books explain how things work.</p>
+        <p>Children love picture books.</p>
+        <p>Writers create different characters.</p>
+        <p>Reading improves our mind.</p>
+    </div>
+
+    <!-- THIRD ID THIRD CHAPTER -->
+    <div id="chapter3">
+        <h2>Chapter 3: Music</h2>
+        <p>Music is a universal language.</p>
+        <p>People listen to music everywhere.</p>
+        <p>There are many different types of music.</p>
+        <p>Pop music is very popular.</p>
+        <p>Classical music is relaxing.</p>
+        <p>Rock music is full of energy.</p>
+        <p>Romantic songs tell stories of love.</p>
+        <p>Children love rhymes and songs.</p>
+        <p>Singers have beautiful voices.</p>
+        <p>Music makes us happy.</p>
+    </div>
+
+    <a href="#chapter1">Go to Top</a>
+</body>
+</html>
