@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>This is the Main Heading</h1>
+<!-- Note: The original image incorrectly closes this next tag with <p> -->
+<p>This text might be an introduction to the rest of the page. And if the</p>
+<h2>This is a Sub-Heading</h2>
+<p>Many long articles have sub-headings so to help you follow the structure</p>
+<h7>Another Sub-Heading</h7>
+<p>Here you can see another sub-heading.</p>
+</body>
+</html>
